@@ -17,7 +17,7 @@
 
 <h3 align="left">Get In Touch:</h3>
 <p align="left">
-  <a href="https://www.hugo-w.fr/" target="blank"><img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/link_1f517.png" alt="Link Iconb" height="40" width="40" /></a>
+  <a href="https://www.hugo-w.fr/" target="blank"><img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/link_1f517.png" alt="Link Iconb" height="35" width="35" /></a>
     <a href="https://twitter.com/worazme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Logo Twitter" height="30" width="40" /></a>
 </p>
 
