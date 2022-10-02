@@ -7,7 +7,7 @@
   <p align="left"> <a href="https://twitter.com/squizgg" target="blank"><img src="https://img.shields.io/twitter/follow/squizgg?logo=twitter&style=for-the-badge" alt="Logo sQuiz" /></a></p>
 </div>
 
-- 🤝 I am part of [@Les_InGDoc](https://twitter.com/Les_InGdoc) and the sQuiz team [@sQuiz](https://twitter.com/squizgg)
+- 🤝 I am part of [@Les_InGDoc](https://twitter.com/Les_InGdoc) and the [@sQuiz](https://twitter.com/squizgg) Team
 
 - 🌱 I am a **student**
 
