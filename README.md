@@ -11,9 +11,9 @@
 
 - 🌱 I am a **student**
 
-- 🔨 I am currently developing projects that are still private
+- 🔨 I am currently developing projects for my studies
 
-- ⚙️ I’m currently learning NextJS
+- ⚙️ I’m currently learning React
 
 <h3 align="left">Get In Touch:</h3>
 <p align="left">
