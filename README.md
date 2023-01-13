@@ -39,7 +39,7 @@
 
 <table>
   <tr>
-    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=worazme&show_icons=true&locale=en" alt="worazme-stats" /></p></td>
+    <td><p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=worazme&show_icons=true&locale=en" alt="worazme-stats" /></p></td>
 <!--     <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worazme&layout=compact" alt="worazme-langs" /></p></td> -->
   </tr>
 </table>
