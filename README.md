@@ -13,7 +13,7 @@
 
 - 🔨 I am currently developing projects for my studies
 
-- ⚙️ I’m currently learning React
+- ⚙️ I’m currently learning Python & SQL
 
 <h3 align="left">Get In Touch:</h3>
 <p align="left">
